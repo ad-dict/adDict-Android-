@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920269367818",
+    "firebase_url": "https://addict-5d078.firebaseio.com",
+    "project_id": "addict-5d078",
+    "storage_bucket": "addict-5d078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920269367818:android:ac01d300a6329625884df3",
+        "android_client_info": {
+          "package_name": "com.addict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920269367818-8m7mobsl9dqkla1s9vaekde05l7hcfgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.addict",
+            "certificate_hash": "f602bb3b16c53740b4c1be41c0e451210f3fc0e7"
+          }
+        },
+        {
+          "client_id": "920269367818-iqhvsaf07ouuuuv2mk01001tls79dl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmeSP9jUIxHaEhYa9aMiFt4PXk3-Po1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920269367818-iqhvsaf07ouuuuv2mk01001tls79dl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
